@@ -32,6 +32,9 @@ theme:
       primary: indigo
       accent: black
 plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
   - search:
       lang: pl
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
