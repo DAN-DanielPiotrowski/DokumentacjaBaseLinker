@@ -1,0 +1,61 @@
+site_name: BaseLinker
+theme:
+  name: material
+  language: pl
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.path
+    - navigation.prune
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.code.select
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Zmień tryb na ciemny
+      primary: black
+      accent: black
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Zmień tryb na jasny
+      primary: indigo
+      accent: black
+plugins:
+  - search:
+      lang: pl
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: http://88.135.166.245:8418/
+      name: Sprawdź Git
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - toc:
+      title: Tabela Zawartości
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - tables
+  - attr_list
