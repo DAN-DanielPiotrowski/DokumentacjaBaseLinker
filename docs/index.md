@@ -27,4 +27,4 @@ W kolejnej zakładce „Metody płatności” ustalamy dopuszczone przez nas for
 <img src="./assets/enovaPLATNOSCI.png" alt="Enova Platnosci" style="width:75%; margin: 0 auto;"/>
 </figure>
 
-Ostatnia zakładka - „zdarzenia” odpowiada za konfigurację statusów, które będą aktualizowane na stronie baselinkera. (np. przyjęcie do realizacji, informacja o wysyłce towaru, nr listu przewozowego itp.)
+Ostatnia zakładka - „zdarzenia” odpowiada za konfigurację statusów, które będą aktualizowane na stronie [BaseLinker](https://baselinker.com/). (np. przyjęcie do realizacji, informacja o wysyłce towaru, nr listu przewozowego itp.)
