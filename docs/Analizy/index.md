@@ -13,6 +13,8 @@ System jest w pełni konfigurowalny i pozwala wybierać, które definicje dokume
 
 Dla firm operujących na rabatach typu RETRO program ALBUS-IT Analizy pozwala także tworzyć raporty uwzględniające taki rabat dla towarów.<br /> 
 
+## Przeznaczenie
+
 <b>Przeznaczenie:</b>
 <ul>
 <li>dla firmy</li>
@@ -33,3 +35,8 @@ Dla firm operujących na rabatach typu RETRO program ALBUS-IT Analizy pozwala ta
 <li>analizy porównawcze z podziałem na wybrane/wszystkie magazyny</li>
 <li>analizy z rozbiciem na definicje dokumentów, ich serii czy też zdefiniowanych cech do nich</li>
 </ul>
+
+Moduł Analizy dodaje też na listach faktur sprzedaży workery, które umożliwiają umieszczanie na standardowych listach dokumentów danych z analiz, co w sposób zauważalny podnosi szybkość działania list, na których prezentowana jest np. marża.
+
+## Wymagania systemowe
+Do prawidłowego działania modułu analiz niezbędne jest posiadanie systemu ERP Enova 365 w wersji 2304.x.x

@@ -1,2 +1,2 @@
-# test
-test
+# Oprogramowanie Albus-IT
+Strona w budowie
